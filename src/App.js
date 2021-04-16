@@ -13,7 +13,7 @@ function App() {
     },
     {
       sno: 2,
-      title:  "abcd     lets do this math",
+      title:  "a lets do this math",
       desc: "you have to do this math"
     },
     {
