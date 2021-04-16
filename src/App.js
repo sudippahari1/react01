@@ -7,18 +7,18 @@ import {Footer} from "./Mycomponents/Footer";
 function App() {
   let todos = [
     {
-      sno: 1
-      title  : "lets do this job"
+      sno: 1,
+      title  : "lets do this job",
       desc : "you have to do this job"
     },
     {
-      sno: 2
-      title: "lets do this math"
+      sno: 2,
+      title: "lets do this math",
       desc: "you have to do this math"
     },
     {
-      sno: 2
-      title: "lets do this home"
+      sno: 2,
+      title: "lets do this home",
       desc: "you have to do this home "
     }
   ]
